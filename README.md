@@ -2,11 +2,7 @@
 
 The **Carbon Footprint Calculator** is a web-based application that helps individuals measure, track, and reduce their personal CO₂ emissions.  
 It provides instant calculations, detailed insights, visual charts, and eco-friendly suggestions to encourage sustainable living.  
-
-This project was built using **Java Servlets, JSP, and MySQL**, with a clean frontend powered by **HTML, CSS, and Chart.js**.  
-It is designed as a practical showcase of applying software engineering skills to solve a real-world environmental problem.  
-
-
+  
 
 
 ##  Features
