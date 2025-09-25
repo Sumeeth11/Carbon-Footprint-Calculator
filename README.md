@@ -93,3 +93,23 @@ The project follows a standard Maven + JSP structure:
 - `src/test/java/` → Unit tests (if any)  
 - `pom.xml` → Maven dependencies & build configuration  
 
+
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Register Page
+![Register](screenshots/register.png)
+
+### Calculator
+![Calculator](screenshots/calculator.png)
+
+### Profile Page
+![Profile](screenshots/profile.png)
+
+
