@@ -8,6 +8,7 @@ It is designed as a practical showcase of applying software engineering skills t
 
 
 
+
 ##  Features
 
 -  **User Authentication** – Secure login, registration, and profile management.
@@ -23,6 +24,7 @@ It is designed as a practical showcase of applying software engineering skills t
 
 
 
+
 ##  Tech Stack
 
 - **Frontend:** JSP (JavaServer Pages), HTML5, CSS3, Chart.js  
@@ -32,6 +34,8 @@ It is designed as a practical showcase of applying software engineering skills t
 - **Server:** Apache Tomcat  
 - **Version Control:** Git & GitHub  
 - **IDE:** IntelliJ IDEA
+
+
 
 
 ##  Project Setup & Installation Guide
@@ -84,6 +88,7 @@ http://localhost:8080/Carbon-Footprint-Calculator
 
 
 
+
 ##  Folder Structure
 
 The project follows a standard Maven + JSP structure:
@@ -95,21 +100,31 @@ The project follows a standard Maven + JSP structure:
 
 
 
+
 ## Screenshots
 
-### Home Page
-![Home](screenshots/home.png)
-
 ### Login Page
-![Login](screenshots/login.png)
+<img src="screenshots/login.png" alt="Login Page" width="800">
 
-### Register Page
-![Register](screenshots/register.png)
+### Home Page
+<img src="screenshots/home.png" alt="Home Page" width="800">
 
 ### Calculator
-![Calculator](screenshots/calculator.png)
+<img src="screenshots/calculator.png" alt="Calculator Page" width="800">
+
+### Result
+<img src="screenshots/result.png" alt="Result Page" width="800">
 
 ### Profile Page
-![Profile](screenshots/profile.png)
+<img src="screenshots/profile.png" alt="Profile Page" width="800">
 
+
+
+
+## Author
+**Sumeeth Sangat**
+
+-  [Email](mailto:sumeethsangat@gmail.com)  
+-  [GitHub](https://github.com/Sumeeth11)  
+-  [LinkedIn](https://www.linkedin.com/in/sumeethsangat)
 
