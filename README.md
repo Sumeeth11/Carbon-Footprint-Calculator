@@ -3,22 +3,37 @@
 The **Carbon Footprint Calculator** is a web-based application that helps individuals measure, track, and reduce their personal CO₂ emissions.  
 It provides instant calculations, detailed insights, visual charts, and eco-friendly suggestions to encourage sustainable living.  
   
+<br>
+
+##  Features  
+
+The Carbon Footprint Calculator comes with the following key features:  
+
+-  **User Authentication**  
+  Secure login, registration, and profile management.  
+
+-  **Carbon Footprint Calculator**  
+  Calculates emissions from electricity, fuel, travel, waste, and water usage.  
+
+-  **Interactive Dashboard**  
+  Displays total calculations, averages, and recent trends with beautiful charts (powered by Chart.js).  
+
+-  **History Tracking**  
+  View all past calculations in a structured history table.  
+
+-  **Result Insights**  
+  Provides personal efficiency score, category-wise share, and real-world impact equivalence (trees, distance driven).  
+
+-  **Eco Tips & Benchmarks**  
+  Personalized suggestions and reference values for good, average, and high usage levels.  
+
+-  **Edit Profile**  
+  Update username, email, and password securely.  
+
+ 
 
 
-##  Features
-
--  **User Authentication** – Secure login, registration, and profile management.
--  **Carbon Footprint Calculator** – Calculates emissions from electricity, fuel, travel, waste, and water usage.
--  **Interactive Dashboard** – Displays total calculations, averages, and trends with charts (Chart.js).
--  **History Tracking** – View all past calculations with detailed breakdowns.
--  **Result Insights** – Provides personal efficiency score, category-wise share, and environmental impact equivalence.
--  **Eco Tips & Benchmarks** – Offers personalized suggestions and reference values for good vs. high usage.
--  **Edit Profile** – Update username, email, and password securely.
--  **Error Handling** – Friendly error page with meaningful messages.
--  **Responsive UI** – Clean and modern interface with reusable CSS styling.
-
-
-
+<br>
 
 
 ##  Tech Stack
@@ -31,7 +46,7 @@ It provides instant calculations, detailed insights, visual charts, and eco-frie
 - **Version Control:** Git & GitHub  
 - **IDE:** IntelliJ IDEA
 
-
+<br>
 
 
 ##  Project Setup & Installation Guide
@@ -83,6 +98,7 @@ http://localhost:8080/Carbon-Footprint-Calculator
 5. History Page: /history.jsp
 
 
+<br>
 
 
 ##  Folder Structure
@@ -95,6 +111,7 @@ The project follows a standard Maven + JSP structure:
 - `pom.xml` → Maven dependencies & build configuration  
 
 
+<br>
 
 
 ## Screenshots
@@ -115,6 +132,7 @@ The project follows a standard Maven + JSP structure:
 <img src="screenshots/profile.png" alt="Profile Page" width="800">
 
 
+<br>
 
 
 ## Author
